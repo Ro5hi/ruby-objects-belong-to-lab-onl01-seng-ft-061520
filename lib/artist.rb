@@ -1,3 +1,3 @@
-def Artist 
-  name = Beyonce 
-end 
+class Artist 
+  
+  def
